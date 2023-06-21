@@ -1,0 +1,3 @@
+nim      nama    jenkel  kota     nohp          nilai
+-------  ------  ------  -------  ------------  -----
+2022001  Jhonny  Pria    Jakarta  081798761234  75   
